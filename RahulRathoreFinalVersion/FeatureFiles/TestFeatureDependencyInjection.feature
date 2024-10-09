@@ -2,6 +2,8 @@
 
 Background: Pre-Condition
 	# Given Stpe
+	#correct above senetence
+	#the corrected sentecne is "Given Step"
 	Given User is at Home Page
 	And File a Bug should be visible
 @Tag2

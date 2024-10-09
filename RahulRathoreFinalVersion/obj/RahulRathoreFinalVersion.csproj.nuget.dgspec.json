@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj": {}
+    "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj": {
+    "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj",
+        "projectUniqueName": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj",
         "projectName": "RahulRathoreFinalVersion",
-        "projectPath": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj",
+        "projectPath": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj",
         "packagesPath": "C:\\Users\\youtube\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\obj\\",
+        "outputPath": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

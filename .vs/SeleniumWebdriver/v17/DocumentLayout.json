@@ -1,53 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\",
+  "WorkspaceRootPath": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorealert\\rahulrathorefinalversion\\featurefiles\\testfeaturedependencyinjection.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorefinalndfixed\\rahulexample\\rahulrathorefinalversion\\testscript\\fileupload\\testfileuploadaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|solutionrelative:rahulrathorefinalversion\\testscript\\fileupload\\testfileuploadaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorefinalndfixed\\rahulexample\\rahulrathorefinalversion\\featurefiles\\testfeaturedependencyinjection.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|solutionrelative:rahulrathorefinalversion\\featurefiles\\testfeaturedependencyinjection.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorealert\\rahulrathorefinalversion\\generalhook\\generalhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorefinalndfixed\\rahulexample\\rahulrathorefinalversion\\generalhook\\generalhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|solutionrelative:rahulrathorefinalversion\\generalhook\\generalhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorealert\\rahulrathorefinalversion\\stepdefinition\\testfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorefinalndfixed\\rahulexample\\rahulrathorefinalversion\\stepdefinition\\testfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|solutionrelative:rahulrathorefinalversion\\stepdefinition\\testfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorealert\\rahulrathorefinalversion\\settings\\objectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorefinalndfixed\\rahulexample\\rahulrathorefinalversion\\settings\\objectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|solutionrelative:rahulrathorefinalversion\\settings\\objectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorealert\\rahulrathorefinalversion\\stepdefinition\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorefinalndfixed\\rahulexample\\rahulrathorefinalversion\\stepdefinition\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|solutionrelative:rahulrathorefinalversion\\stepdefinition\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorealert\\rahulrathorefinalversion\\stepdefinition\\arguments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorefinalndfixed\\rahulexample\\rahulrathorefinalversion\\stepdefinition\\arguments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|solutionrelative:rahulrathorefinalversion\\stepdefinition\\arguments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorealert\\rahulrathorefinalversion\\featurefiles\\arguments.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorefinalndfixed\\rahulexample\\rahulrathorefinalversion\\featurefiles\\arguments.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|solutionrelative:rahulrathorefinalversion\\featurefiles\\arguments.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorealert\\rahulrathorefinalversion\\featurefiles\\testfeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorefinalndfixed\\rahulexample\\rahulrathorefinalversion\\featurefiles\\testfeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|solutionrelative:rahulrathorefinalversion\\featurefiles\\testfeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorealert\\rahulrathorefinalversion\\stepdefinition\\testfeaturedependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorefinalndfixed\\rahulexample\\rahulrathorefinalversion\\stepdefinition\\testfeaturedependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|solutionrelative:rahulrathorefinalversion\\stepdefinition\\testfeaturedependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorealert\\rahulrathorefinalversion\\baseclasses\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorefinalndfixed\\rahulexample\\rahulrathorefinalversion\\baseclasses\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|solutionrelative:rahulrathorefinalversion\\baseclasses\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorealert\\rahulrathorefinalversion\\configuration\\appjsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorefinalndfixed\\rahulexample\\rahulrathorefinalversion\\configuration\\appjsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|solutionrelative:rahulrathorefinalversion\\configuration\\appjsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorealert\\rahulrathorefinalversion\\pageobject\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|c:\\users\\youtube\\desktop\\madhukar\\training\\automationtesting\\projectrepos\\rthorefinalndfixed\\rahulexample\\rahulrathorefinalversion\\pageobject\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DEE4AAE-BB73-44DB-8BC2-58F07A176BC9}|RahulRathoreFinalVersion\\RahulRathoreFinalVersion.csproj|solutionrelative:rahulrathorefinalversion\\pageobject\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,20 +62,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Hooks.cs",
-              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\StepDefinition\\Hooks.cs",
+              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\StepDefinition\\Hooks.cs",
               "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\StepDefinition\\Hooks.cs",
-              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\StepDefinition\\Hooks.cs",
+              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\StepDefinition\\Hooks.cs",
               "RelativeToolTip": "RahulRathoreFinalVersion\\StepDefinition\\Hooks.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T16:15:47.648Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestFileUploadAction.cs",
+              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\TestScript\\FileUpload\\TestFileUploadAction.cs",
+              "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\TestScript\\FileUpload\\TestFileUploadAction.cs",
+              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\TestScript\\FileUpload\\TestFileUploadAction.cs",
+              "RelativeToolTip": "RahulRathoreFinalVersion\\TestScript\\FileUpload\\TestFileUploadAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:26:53.793Z",
               "EditorCaption": ""
             },
             {
@@ -88,146 +104,136 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TestFeatureDependencyInjection.feature",
-              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\FeatureFiles\\TestFeatureDependencyInjection.feature",
+              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\FeatureFiles\\TestFeatureDependencyInjection.feature",
               "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\FeatureFiles\\TestFeatureDependencyInjection.feature",
-              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\FeatureFiles\\TestFeatureDependencyInjection.feature",
+              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\FeatureFiles\\TestFeatureDependencyInjection.feature",
               "RelativeToolTip": "RahulRathoreFinalVersion\\FeatureFiles\\TestFeatureDependencyInjection.feature",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
               "WhenOpened": "2024-09-28T14:01:17.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GeneralHook.cs",
-              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\GeneralHook\\GeneralHook.cs",
+              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\GeneralHook\\GeneralHook.cs",
               "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\GeneralHook\\GeneralHook.cs",
-              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\GeneralHook\\GeneralHook.cs",
+              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\GeneralHook\\GeneralHook.cs",
               "RelativeToolTip": "RahulRathoreFinalVersion\\GeneralHook\\GeneralHook.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAA5wCQAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T13:12:28.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TestFeature.cs",
-              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\StepDefinition\\TestFeature.cs",
-              "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\StepDefinition\\TestFeature.cs",
-              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\StepDefinition\\TestFeature.cs",
-              "RelativeToolTip": "RahulRathoreFinalVersion\\StepDefinition\\TestFeature.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T08:40:23.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T13:12:28.819Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "TestFeature.cs",
+              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\StepDefinition\\TestFeature.cs",
+              "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\StepDefinition\\TestFeature.cs",
+              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\StepDefinition\\TestFeature.cs",
+              "RelativeToolTip": "RahulRathoreFinalVersion\\StepDefinition\\TestFeature.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T08:40:23.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ObjectRepository.cs",
-              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\Settings\\ObjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\Settings\\ObjectRepository.cs",
               "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\Settings\\ObjectRepository.cs",
-              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\Settings\\ObjectRepository.cs",
+              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\Settings\\ObjectRepository.cs",
               "RelativeToolTip": "RahulRathoreFinalVersion\\Settings\\ObjectRepository.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T14:27:32.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Arguments.cs",
-              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\StepDefinition\\Arguments.cs",
-              "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\StepDefinition\\Arguments.cs",
-              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\StepDefinition\\Arguments.cs",
-              "RelativeToolTip": "RahulRathoreFinalVersion\\StepDefinition\\Arguments.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAEwCYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T11:56:07.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TestFeature.feature",
-              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\FeatureFiles\\TestFeature.feature",
-              "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\FeatureFiles\\TestFeature.feature",
-              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\FeatureFiles\\TestFeature.feature",
-              "RelativeToolTip": "RahulRathoreFinalVersion\\FeatureFiles\\TestFeature.feature",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-09-28T08:38:00.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T14:27:32.495Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Arguments.feature",
-              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\FeatureFiles\\Arguments.feature",
-              "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\FeatureFiles\\Arguments.feature",
-              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\FeatureFiles\\Arguments.feature",
-              "RelativeToolTip": "RahulRathoreFinalVersion\\FeatureFiles\\Arguments.feature",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABUAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-09-28T08:37:48.566Z",
-              "EditorCaption": ""
+              "Title": "Arguments.cs",
+              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\StepDefinition\\Arguments.cs",
+              "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\StepDefinition\\Arguments.cs",
+              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\StepDefinition\\Arguments.cs",
+              "RelativeToolTip": "RahulRathoreFinalVersion\\StepDefinition\\Arguments.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAEwCYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:56:07.789Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "TestFeatureDependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\StepDefinition\\TestFeatureDependencyInjection.cs",
-              "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\StepDefinition\\TestFeatureDependencyInjection.cs",
-              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\StepDefinition\\TestFeatureDependencyInjection.cs",
-              "RelativeToolTip": "RahulRathoreFinalVersion\\StepDefinition\\TestFeatureDependencyInjection.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T14:04:39.064Z",
-              "EditorCaption": ""
+              "Title": "TestFeature.feature",
+              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\FeatureFiles\\TestFeature.feature",
+              "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\FeatureFiles\\TestFeature.feature",
+              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\FeatureFiles\\TestFeature.feature",
+              "RelativeToolTip": "RahulRathoreFinalVersion\\FeatureFiles\\TestFeature.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-28T08:38:00.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Arguments.feature",
+              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\FeatureFiles\\Arguments.feature",
+              "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\FeatureFiles\\Arguments.feature",
+              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\FeatureFiles\\Arguments.feature",
+              "RelativeToolTip": "RahulRathoreFinalVersion\\FeatureFiles\\Arguments.feature",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABUAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-28T08:37:48.566Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "BaseClass.cs",
-              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\BaseClasses\\BaseClass.cs",
-              "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\BaseClasses\\BaseClass.cs",
-              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\BaseClasses\\BaseClass.cs",
-              "RelativeToolTip": "RahulRathoreFinalVersion\\BaseClasses\\BaseClass.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAA9wEMAAAAKAAAA",
+              "Title": "TestFeatureDependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\StepDefinition\\TestFeatureDependencyInjection.cs",
+              "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\StepDefinition\\TestFeatureDependencyInjection.cs",
+              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\StepDefinition\\TestFeatureDependencyInjection.cs",
+              "RelativeToolTip": "RahulRathoreFinalVersion\\StepDefinition\\TestFeatureDependencyInjection.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T13:16:10.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T14:04:39.064Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "AppJsonReader.cs",
-              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\Configuration\\AppJsonReader.cs",
-              "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\Configuration\\AppJsonReader.cs",
-              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\Configuration\\AppJsonReader.cs",
-              "RelativeToolTip": "RahulRathoreFinalVersion\\Configuration\\AppJsonReader.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAEwEwAAAAIAAAA",
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\BaseClasses\\BaseClass.cs",
+              "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\BaseClasses\\BaseClass.cs",
+              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\BaseClasses\\BaseClass.cs",
+              "RelativeToolTip": "RahulRathoreFinalVersion\\BaseClasses\\BaseClass.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAA9wEMAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T08:44:56.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T13:16:10.376Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "AppJsonReader.cs",
+              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\Configuration\\AppJsonReader.cs",
+              "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\Configuration\\AppJsonReader.cs",
+              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\Configuration\\AppJsonReader.cs",
+              "RelativeToolTip": "RahulRathoreFinalVersion\\Configuration\\AppJsonReader.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAEwEwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T08:44:56.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "LoginPage.cs",
-              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\PageObject\\LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\PageObject\\LoginPage.cs",
               "RelativeDocumentMoniker": "RahulRathoreFinalVersion\\PageObject\\LoginPage.cs",
-              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreAlert\\RahulRathoreFinalVersion\\PageObject\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\youtube\\Desktop\\Madhukar\\Training\\AutomationTesting\\ProjectRepos\\RThoreFinalndFixed\\RahulExample\\RahulRathoreFinalVersion\\PageObject\\LoginPage.cs",
               "RelativeToolTip": "RahulRathoreFinalVersion\\PageObject\\LoginPage.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwDEAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T11:17:22.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T11:17:22.733Z"
             }
           ]
         }
